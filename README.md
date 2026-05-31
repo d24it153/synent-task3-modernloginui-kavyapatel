@@ -1,4 +1,4 @@
-# Synent Portal - Premium Login Page UI3
+# Synent Portal - Premium Login Page UI
 
 A state-of-the-art, visually stunning, and highly interactive Login Page UI designed for Synent. This interface is built with premium aesthetics, fluid animations, and robust client-side validation using vanilla HTML, CSS, and JavaScript.
 
